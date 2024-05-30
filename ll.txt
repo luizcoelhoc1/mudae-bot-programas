@@ -1,0 +1,734 @@
+1. Yui Hirasawa - K-On!
+2. Sinon - Sword Art Online
+3. Arue - Kono Subarashii Sekai ni Shukufuku wo!
+4. Shuna - Tensei shitara Slime Datta Ken
+5. Migi - Parasyte -the maxim-
+6. Raphtalia - Tate no Yuusha no Nariagari
+7. Kizuna AI - upd8
+8. Yuuko Yoshida - Machikado Mazoku
+9. Holo - Ookami to Koushinryou
+10. Alice Nakiri - Shokugeki no Souma
+11. Merlin - Nanatsu no Taizai
+12. Tejina-senpai - Tejina-senpai
+13. Quinella - Sword Art Online
+14. Evileye - Overlord
+15. Melty Melromarc - Tate no Yuusha no Nariagari
+16. Maria Naruse - Shinmai Maou no Testament
+17. Alice - Alice in Wonderland
+18. Lain Iwakura - Serial Experiments Lain
+19. Fitoria - Tate no Yuusha no Nariagari
+20. Lara Croft - Tomb Raider
+21. Lily Hoshikawa - Zombieland Saga
+22. Beatrice (R:Z) - Re:Zero kara Hajimeru Isekai Seikatsu
+23. Nicolas Brown - Gangsta.
+24. Black Hanekawa - Monogatari Series
+25. Chomusuke - Kono Subarashii Sekai ni Shukufuku wo!
+26. Narberal Gamma - Overlord
+27. Sumire Saitou - K-On!
+28. Mayoi Hachikuji - Monogatari Series
+29. Misa Amane - Death Note
+30. Cecily - Kono Subarashii Sekai ni Shukufuku wo!
+31. Chisa Kotegawa - Grand Blue
+32. Elma - Kobayashi-san Chi no Maid Dragon
+33. Hisako Arato - Shokugeki no Souma
+34. Jun Suzuki - K-On!
+35. Kyouya Hibari - Katekyo Hitman Reborn!
+36. Lero - D.Gray-man
+37. Mine - Akame ga Kill!
+38. Newbie Succubus - Kono Subarashii Sekai ni Shukufuku wo!
+39. Nonna Zell - No Game No Life
+40. Shinku Nilvalen - No Game No Life
+41. Suika - Dr. Stone
+42. Tsuyuno Yatsumura - Mahou Shoujo Site
+43. Giotto - Katekyo Hitman Reborn!
+44. Yui (SAO) - Sword Art Online
+45. Yukari Sakuma - K-On!
+46. Eris (KS) - Kono Subarashii Sekai ni Shukufuku wo!
+47. CZ2128 Delta - Overlord
+48. Konan - Naruto
+49. Maple - BOFURI: I Don't Want to Get Hurt, so I'll Max Out My Defense.
+50. Shinobu Kochou - Kimetsu no Yaiba
+51. Lal Mirch - Katekyo Hitman Reborn!
+52. Ichiko Sakura - Binbougami ga!
+53. Momiji Binboda - Binbougami ga!
+54. Kouko Kaga - Golden Time
+55. Mio Akiyama - K-On!
+56. Ritsu Tainaka - K-On!
+57. Tsumugi Kotobuki - K-On!
+58. Sawako Yamanaka - K-On!
+59. Azusa Nakano - K-On!
+60. Ui Hirasawa - K-On!
+61. Nodoka Manabe - K-On!
+62. Aqua - Kono Subarashii Sekai ni Shukufuku wo!
+63. Megumin - Kono Subarashii Sekai ni Shukufuku wo!
+64. Darkness - Kono Subarashii Sekai ni Shukufuku wo!
+65. Kazuma Satou - Kono Subarashii Sekai ni Shukufuku wo!
+66. Wiz - Kono Subarashii Sekai ni Shukufuku wo!
+67. Yunyun - Kono Subarashii Sekai ni Shukufuku wo!
+68. Rin Tooyama - New Game!
+69. Aoba Suzukaze - New Game!
+70. Kou Yagami - New Game!
+71. Hifumi Takimoto - New Game!
+72. Hajime Shinoda - New Game!
+73. Yun Iijima - New Game!
+74. 『　』 - No Game No Life
+75. Amira (NGNL) - No Game No Life
+76. Azriel - No Game No Life
+77. Couronne Dola - No Game No Life
+78. Einithi - No Game No Life
+79. Feel Nilvalen - No Game No Life
+80. Horou - No Game No Life
+81. Izuna Hatsuse - No Game No Life
+82. Jibril - No Game No Life
+83. Chlammy Zell - No Game No Life
+84. Laira Lorelei - No Game No Life
+85. Miko (NGNL) - No Game No Life
+86. Plum Stoker - No Game No Life
+87. Riku Dola - No Game No Life
+88. Schwi Dola - No Game No Life
+89. Shiro - No Game No Life
+90. Sora (NGNL) - No Game No Life
+91. Stephanie Dola - No Game No Life
+92. Tet - No Game No Life
+93. Hana - Wolf Children
+94. Yuki (WC) - Wolf Children
+95. Mai Sawaguchi - Sono Hanabira ni Kuchizuke wo
+96. Reo Kawamura - Sono Hanabira ni Kuchizuke wo
+97. Kurisu Makise - Steins;Gate
+98. Rintarou Okabe - Steins;Gate
+99. Mayuri Shiina - Steins;Gate
+100. Ruka Urushibara - Steins;Gate
+101. Suzuha Amane - Steins;Gate
+102. Faris NyanNyan - Steins;Gate
+103. Yuugo Tennouji - Steins;Gate
+104. Komachi Hikigaya - Yahari Ore no Seishun Love Comedy wa Machigatteiru.
+105. Norman - Yakusoku no Neverland
+106. Emma - Yakusoku no Neverland
+107. Ray - Yakusoku no Neverland
+108. Phil - Yakusoku no Neverland
+109. Isabella - Yakusoku no Neverland
+110. Sister Krone - Yakusoku no Neverland
+111. Gilda - Yakusoku no Neverland
+112. Leuvis - Yakusoku no Neverland
+113. Ryouko Tamiya - Parasyte -the maxim-
+114. Kaori Miyazono - Shigatsu wa Kimi no Uso
+115. Sonoe Juujo - Araburu Kisetsu no Otome-domo yo.
+116. Kazusa Onodera - Araburu Kisetsu no Otome-domo yo.
+117. Momoko Sudou - Araburu Kisetsu no Otome-domo yo.
+118. Niina Sugawara - Araburu Kisetsu no Otome-domo yo.
+119. Hitoha Hongou - Araburu Kisetsu no Otome-domo yo.
+120. Rika Sonezaki - Araburu Kisetsu no Otome-domo yo.
+121. Shuuichi Nitori - Hourou Musuko
+122. Chizuru Sarashina - Hourou Musuko
+123. Anna Suehiro - Hourou Musuko
+124. Yona - Akatsuki no Yona
+125. Olivia - Asobi Asobase
+126. Hanako Honda - Asobi Asobase
+127. Kasumi Nomura - Asobi Asobase
+128. Hideyoshi Kinoshita - Baka to Test to Shoukanjuu
+129. Mizuki Himeji - Baka to Test to Shoukanjuu
+130. Akihisa Yoshii - Baka to Test to Shoukanjuu
+131. Kouta Tsuchiya - Baka to Test to Shoukanjuu
+132. Minami Shimada - Baka to Test to Shoukanjuu
+133. Kanade Tachibana - Angel Beats!
+134. Yuri Nakamura - Angel Beats!
+135. Black★Gold Saw - Black★Rock Shooter
+136. Black★Rock Shooter - Black★Rock Shooter
+137. Mato Kuroi - Black★Rock Shooter
+138. Yomi Takanashi - Black★Rock Shooter
+139. Izuku Midoriya - Boku no Hero Academia
+140. All Might - Boku no Hero Academia
+141. Ochako Uraraka - Boku no Hero Academia
+142. Tsuyu Asui - Boku no Hero Academia
+143. Shouta Aizawa - Boku no Hero Academia
+144. Eijirou Kirishima - Boku no Hero Academia
+145. Mina Ashido - Boku no Hero Academia
+146. Fumikage Tokoyami - Boku no Hero Academia
+147. Himiko Toga - Boku no Hero Academia
+148. Tooru Hagakure - Boku no Hero Academia
+149. Keroberos - Cardcaptor Sakura
+150. Syaoran Li - Cardcaptor Sakura
+151. Yuuta Togashi - Chuunibyou demo Koi ga Shitai!
+152. Rikka Takanashi - Chuunibyou demo Koi ga Shitai!
+153. Sanae Dekomori - Chuunibyou demo Koi ga Shitai!
+154. Kaoru Tsunashi - Danna ga Nani wo Itteiru ka Wakaranai
+155. Nana (EL) - Elfen Lied
+156. Lucy - Elfen Lied
+157. Chloe von Einzbern - Fate/Kaleid Liner PRISMA☆ILLYA
+158. Illyasviel von Einzbern (Kaleid) - Fate/Kaleid Liner PRISMA☆ILLYA
+159. Miyu Edelfelt - Fate/Kaleid Liner PRISMA☆ILLYA
+160. Magical Ruby - Fate/Kaleid Liner PRISMA☆ILLYA
+161. Karen Tendou - Gamers!
+162. Chiaki Hoshinomori - Gamers!
+163. Aguri - Gamers!
+164. Keita Amano - Gamers!
+165. Iori Kitahara - Grand Blue
+166. Azusa Hamaoka - Grand Blue
+167. Shinji Tokita - Grand Blue
+168. Eikichi Onizuka - Great Teacher Onizuka
+169. Urumi Kanzaki - Great Teacher Onizuka
+170. Shio Koube - Happy Sugar Life
+171. Satou Matsuzaka - Happy Sugar Life
+172. Shouko Hida - Happy Sugar Life
+173. Kumiko Oumae - Hibike! Euphonium
+174. Asuka Tanaka - Hibike! Euphonium
+175. Reina Kousaka - Hibike! Euphonium
+176. Sapphire Kawashima - Hibike! Euphonium
+177. Hiro Shishigami - Inuyashiki
+178. Ichirou Inuyashiki - Inuyashiki
+179. Miou Aida - Zutto Mae Kara Suki Deshita
+180. Yumeko Jabami - Kakegurui
+181. Mary Saotome - Kakegurui
+182. Runa Yomozuki - Kakegurui
+183. Itsuki Sumeragi - Kakegurui
+184. Hana Midorikawa - Prison School
+185. Chiyo Kurihara - Prison School
+186. Kobayashi - Kobayashi-san Chi no Maid Dragon
+187. Tohru - Kobayashi-san Chi no Maid Dragon
+188. Kanna Kamui - Kobayashi-san Chi no Maid Dragon
+189. Fafnir - Kobayashi-san Chi no Maid Dragon
+190. Riko Saikawa - Kobayashi-san Chi no Maid Dragon
+191. Makoto Takiya - Kobayashi-san Chi no Maid Dragon
+192. Lucoa - Kobayashi-san Chi no Maid Dragon
+193. Shouko Nishimiya - Koe no Katachi
+194. Naoka Ueno - Koe no Katachi
+195. Shouya Ishida - Koe no Katachi
+196. Yuzuru Nishimiya - Koe no Katachi
+197. Miyako Ishida - Koe no Katachi
+198. Iori Nagase - Kokoro Connect
+199. Himeko Inaba - Kokoro Connect
+200. Tsukimi Kurashita - Kuragehime
+201. Kuranosuke Koibuchi - Kuragehime
+202. Hanabi Yasuraoka - Kuzu no Honkai
+203. Noriko Kamomebata - Kuzu no Honkai
+204. Mirai Kuriyama - Kyoukai no Kanata
+205. Riko - Made in Abyss
+206. Nanachi - Made in Abyss
+207. Lyza - Made in Abyss
+208. Maruruk - Made in Abyss
+209. Madoka Kaname - Mahou Shoujo Madoka★Magica
+210. Mami Tomoe - Mahou Shoujo Madoka★Magica
+211. Homura Akemi - Mahou Shoujo Madoka★Magica
+212. Kyouko Sakura - Mahou Shoujo Madoka★Magica
+213. Ban - Nanatsu no Taizai
+214. Hawk - Nanatsu no Taizai
+215. Monspeet - Nanatsu no Taizai
+216. Derieri - Nanatsu no Taizai
+217. Ikta Solork - Alderamin on the Sky
+218. Yatorishino Igsem - Alderamin on the Sky
+219. Moriko Morioka - Net-juu no Susume
+220. Lily (NnS) - Net-juu no Susume
+221. Lilac - Net-juu no Susume
+222. Yato - Noragami
+223. Kazuma - Noragami
+224. Kofuku - Noragami
+225. Bishamon - Noragami
+226. Hiyori Iki - Noragami
+227. Nora - Noragami
+228. Saitama - One Punch Man
+229. Tatsumaki - One Punch Man
+230. Takeo Gouda - Ore Monogatari!!
+231. Makoto Sunakawa - Ore Monogatari!!
+232. Rinko Yamato - Ore Monogatari!!
+233. Chisato Mizusawa - Osake wa Fuufu ni Natte kara
+234. Ainz Ooal Gown - Overlord
+235. Albedo - Overlord
+236. Solution Epsilon - Overlord
+237. Shalltear Bloodfallen - Overlord
+238. Lupusregina Beta - Overlord
+239. Crusch Lulu - Overlord
+240. Yuri Alpha - Overlord
+241. Sebas Tian - Overlord
+242. Aura Bella Fiora - Overlord
+243. Mare Bello Fiore - Overlord
+244. Nfirea Bareare - Overlord
+245. Stella Vermillion - Rakudai Kishi no Cavalry
+246. Shizuku Kurogane - Rakudai Kishi no Cavalry
+247. Aka Onda - Rec
+248. Haruka Takayama - Sakura Trick
+249. Yuu Sonoda - Sakura Trick
+250. Levi - Shingeki no Kyojin
+251. Erwin Smith - Shingeki no Kyojin
+252. Krista Lenz - Shingeki no Kyojin
+253. Hange Zoë - Shingeki no Kyojin
+254. Sasha Braus - Shingeki no Kyojin
+255. Souma Yukihira - Shokugeki no Souma
+256. Erina Nakiri - Shokugeki no Souma
+257. Megumi Tadokoro - Shokugeki no Souma
+258. Satoshi Isshiki - Shokugeki no Souma
+259. Jouichirou Yukihira - Shokugeki no Souma
+260. Rindou Kobayashi - Shokugeki no Souma
+261. Terunori Kuga - Shokugeki no Souma
+262. Chtholly - Shuumatsu Nani Shitemasu ka? Isogashii Desu ka? Sukutte Moratte Ii Desu ka?
+263. Mari Tamaki - Sora yori mo Tooi Basho
+264. Hinata Miyake - Sora yori mo Tooi Basho
+265. Yuzuki Shiraishi - Sora yori mo Tooi Basho
+266. Shirase Kobuchizawa - Sora yori mo Tooi Basho
+267. Gin Toudou - Sora yori mo Tooi Basho
+268. Mari Kusakabe - Tokyo Magnitude 8.0
+269. Taiga Aisaka - Toradora!
+270. Akane Mizuno - Tsuki ga Kirei
+271. Violet Evergarden - Violet Evergarden
+272. Cattleya Baudelaire - Violet Evergarden
+273. Hanako Koyanagi - Wotaku ni Koi wa Muzukashii
+274. Hirotaka Nifuji - Wotaku ni Koi wa Muzukashii
+275. Narumi Momose - Wotaku ni Koi wa Muzukashii
+276. Tarou Kabakura - Wotaku ni Koi wa Muzukashii
+277. Hachiman Hikigaya - Yahari Ore no Seishun Love Comedy wa Machigatteiru.
+278. Yukino Yukinoshita - Yahari Ore no Seishun Love Comedy wa Machigatteiru.
+279. Yui Yuigahama - Yahari Ore no Seishun Love Comedy wa Machigatteiru.
+280. Saika Totsuka - Yahari Ore no Seishun Love Comedy wa Machigatteiru.
+281. Iroha Isshiki - Yahari Ore no Seishun Love Comedy wa Machigatteiru.
+282. Miyabi Itou - Yamada-kun to 7-nin no Majo
+283. Urara Shiraishi - Yamada-kun to 7-nin no Majo
+284. Rika Saionji - Yamada-kun to 7-nin no Majo
+285. Kyouko Toshinou - Yuru Yuri
+286. Akari Akaza - Yuru Yuri
+287. Chinatsu Yoshikawa - Yuru Yuri
+288. Sakurako Oomuro - Yuru Yuri
+289. Himawari Furutani - Yuru Yuri
+290. Chitose Ikeda - Yuru Yuri
+291. Tanjirou Kamado - Kimetsu no Yaiba
+292. Nezuko Kamado - Kimetsu no Yaiba
+293. Mitsuri Kanroji - Kimetsu no Yaiba
+294. Kanao Tsuyuri - Kimetsu no Yaiba
+295. Kanae Kochou - Kimetsu no Yaiba
+296. Sakura Yamauchi - Kimi no Suizou wo Tabetai
+297. Senkuu Ishigami - Dr. Stone
+298. Chrome - Dr. Stone
+299. Kohaku (D.S) - Dr. Stone
+300. Ai Hayasaka - Kaguya-sama wa Kokurasetai
+301. Kaguya Shinomiya - Kaguya-sama wa Kokurasetai
+302. Chika Fujiwara - Kaguya-sama wa Kokurasetai
+303. Yuuto Itou - 3D Kanojo
+304. Iroha Igarashi - 3D Kanojo
+305. Sumie Ayado - 3D Kanojo
+306. Arisa Ishino - 3D Kanojo
+307. Latina - Uchi no Musume no Tame naraba
+308. Chloe (UchiMusume) - Uchi no Musume no Tame naraba
+309. Akame - Akame ga Kill!
+310. Tatsumi - Akame ga Kill!
+311. Esdeath - Akame ga Kill!
+312. Chelsea - Akame ga Kill!
+313. Mei Misaki - Another
+314. Ayame Shaga - Ben-To
+315. Balalaika - Black Lagoon
+316. Revy - Black Lagoon
+317. Roberta - Black Lagoon
+318. Maika Sakuranomiya - Blend S
+319. Kaho Hinata - Blend S
+320. Mafuyu Hoshikawa - Blend S
+321. Hideri Kanzaki - Blend S
+322. Miu Amano - Blend S
+323. Satoru Fujinuma - Boku Dake ga Inai Machi
+324. Sachiko Fujinuma - Boku Dake ga Inai Machi
+325. Rika Shiguma - Boku wa Tomodachi ga Sukunai
+326. Sena Kashiwazaki - Boku wa Tomodachi ga Sukunai
+327. Nao Tomori - Charlotte
+328. Teresa - Claymore
+329. Irene (Claymore) - Claymore
+330. Miria - Claymore
+331. Galatea - Claymore
+332. Flora (Claymore) - Claymore
+333. Koyume Koizuka - Comic Girls
+334. Angelise Ikaruga Misurugi - Cross Ange
+335. Mina Tepes - Dance in the Vampire Bund
+336. Tetsuo Takahashi - Demi-chan wa Kataritai
+337. Hikari Takanashi - Demi-chan wa Kataritai
+338. Sakie Satou - Demi-chan wa Kataritai
+339. Hestia - DanMachi
+340. Liliruca Arde - DanMachi
+341. Bell Cranel - DanMachi
+342. Ais Wallenstein - DanMachi
+343. Loki (DM) - DanMachi
+344. Atsushi Ootani - Lovely Complex
+345. Risa Koizumi - Lovely Complex
+346. Lucy Heartfilia - Fairy Tail
+347. Happy - Fairy Tail
+348. Erza Scarlet - Fairy Tail
+349. Wendy Marvell - Fairy Tail
+350. Mirajane Strauss - Fairy Tail
+351. Makarov Dreyar - Fairy Tail
+352. Virgo - Fairy Tail
+353. Mavis Vermillion - Fairy Tail
+354. Aquarius - Fairy Tail
+355. Papika - Flip Flappers
+356. Cocona Cocomine - Flip Flappers
+357. Gabriel White Tenma - Gabriel DropOut
+358. Dog (GDO) - Gabriel DropOut
+359. Coffee Master - Gabriel DropOut
+360. Raphiel Shiraha Ainsworth - Gabriel DropOut
+361. Satanichia Kurumizawa McDowell - Gabriel DropOut
+362. Vignette Tsukinose April - Gabriel DropOut
+363. Kotarou Kashima - Gakuen Babysitters
+364. Usaida Yoshihito - Gakuen Babysitters
+365. Kumatsuka Kirin - Gakuen Babysitters
+366. Sawatori Midori - Gakuen Babysitters
+367. Kei Kurono - Gantz
+368. Chitose Karasuma - Gi(a)rlish Number
+369. Yae Kugayama - Gi(a)rlish Number
+370. Yuuji Kazami - Grisaia no Kajitsu
+371. Macrophage - Hataraku Saibou
+372. Platelet - Hataraku Saibou
+373. AE3803 - Hataraku Saibou
+374. AA5100 - Hataraku Saibou
+375. Umaru Doma - Himouto! Umaru-chan
+376. Sylphynford Tachibana - Himouto! Umaru-chan
+377. Taihei Doma - Himouto! Umaru-chan
+378. Nana Ebina - Himouto! Umaru-chan
+379. Kirie Motoba - Himouto! Umaru-chan
+380. Hina - Hinamatsuri
+381. Anzu - Hinamatsuri
+382. Hitomi Mishima - Hinamatsuri
+383. Yoshifumi Nitta - Hinamatsuri
+384. Yurine Hanazono - Jashin-chan Dropkick
+385. Jashin-chan - Jashin-chan Dropkick
+386. Minosu - Jashin-chan Dropkick
+387. Nishikata - Karakai Jouzu no Takagi-san
+388. Takagi - Karakai Jouzu no Takagi-san
+389. Mano - Karakai Jouzu no Takagi-san
+390. Nozomi Kaminashi - Keijo!!!!!!!!
+391. Mio Kusakai - Keijo!!!!!!!!
+392. Tsunayoshi Sawada - Katekyo Hitman Reborn!
+393. Reborn - Katekyo Hitman Reborn!
+394. Xanxus - Katekyo Hitman Reborn!
+395. Colonnello - Katekyo Hitman Reborn!
+396. Haru Miura - Katekyo Hitman Reborn!
+397. Dino Cavallone - Katekyo Hitman Reborn!
+398. Chrome Dokuro - Katekyo Hitman Reborn!
+399. Kyouko Sasagawa - Katekyo Hitman Reborn!
+400. Mitsuha Miyamizu - Kimi no Na wa.
+401. Juliet Persia - Kishuku Gakkou no Juliet
+402. Hasuki Komai - Kishuku Gakkou no Juliet
+403. Chartreux Westia - Kishuku Gakkou no Juliet
+404. Teria Wang - Kishuku Gakkou no Juliet
+405. Chidori Takashiro - Kiznaiver
+406. Niko Niiyama - Kiznaiver
+407. Honoka Maki - Kiznaiver
+408. Hajime Tenga - Kiznaiver
+409. Jun Naruse - Kokoro ga Sakebitagatterunda.
+410. Takumi Sakagami - Kokoro ga Sakebitagatterunda.
+411. Shuri Komori - Komori-san wa Kotowarenai!
+412. Kuro (Kurokami) - Kurokami
+413. Nozomi Toujou - Love Live! School Idol Project
+414. Yaya - Machine-Doll wa Kizutsukanai
+415. Aya Asagiri - Mahou Shoujo Site
+416. Nijimi Anazawa - Mahou Shoujo Site
+417. Rina Shioi - Mahou Shoujo Site
+418. Subaru Konoe - Mayo Chiki!
+419. Kanade Suzutsuki - Mayo Chiki!
+420. Kureha Sakamachi - Mayo Chiki!
+421. Mio Isurugi - MM!
+422. Arashiko Yuuno - MM!
+423. Meliodas - Nanatsu no Taizai
+424. Elizabeth Liones - Nanatsu no Taizai
+425. Diane - Nanatsu no Taizai
+426. King - Nanatsu no Taizai
+427. Elaine - Nanatsu no Taizai
+428. Escanor - Nanatsu no Taizai
+429. Ako Tamaki - Netoge no Yome wa Onnanoko ja Nai to Omotta?
+430. Akane Segawa - Netoge no Yome wa Onnanoko ja Nai to Omotta?
+431. Yui Saitou - Netoge no Yome wa Onnanoko ja Nai to Omotta?
+432. Ui Wakana - Okusama ga Seitokaichou!
+433. Kuroneko - OreImo
+434. Manami Tamura - OreImo
+435. Furano Yukihira - Ore no Nounai Sentakushi ga, Gakuen Love Comedy wo Zenryoku de Jama Shiteiru
+436. Chocolat - Ore no Nounai Sentakushi ga, Gakuen Love Comedy wo Zenryoku de Jama Shiteiru
+437. Ojou - Oshiete! Galko-chan
+438. Otako - Oshiete! Galko-chan
+439. Galko - Oshiete! Galko-chan
+440. Popuko - Pop Team Epic
+441. Pipimi - Pop Team Epic
+442. An Onoya - ReLIFE
+443. Chizuru Hishiro - ReLIFE
+444. Sakura Hagiwara - Sekai de Ichiban Tsuyoku Naritai!
+445. Ruuko Kominato - Selector Infected WIXOSS
+446. Tama - Selector Infected WIXOSS
+447. Chihiro Komiya - Shounen Maid
+448. Miyako Ootori - Shounen Maid
+449. Tamaki Honda - Stella no Mahou
+450. Kayo Fujikawa - Stella no Mahou
+451. Ayame Seki - Stella no Mahou
+452. Shiina Murakami - Stella no Mahou
+453. Yamato Kurosawa - Say I Love You.
+454. Fukaziroh - Sword Art Online Alternative: Gun Gale Online
+455. LLENN - Sword Art Online Alternative: Gun Gale Online
+456. Pitohui - Sword Art Online Alternative: Gun Gale Online
+457. Shizuku Mizutani - Tonari no Kaibutsu-kun
+458. Haru Yoshida - Tonari no Kaibutsu-kun
+459. Tomoko Kuroki - Watashi ga Motenai no wa dō Kangaetemo Omaera ga Warui!
+460. Reina - Watashi, Nouryoku wa Heikinchi de tte Itta yo ne!
+461. Adele von Ascham - Watashi, Nouryoku wa Heikinchi de tte Itta yo ne!
+462. Pauline (Noukin) - Watashi, Nouryoku wa Heikinchi de tte Itta yo ne!
+463. Osamu Mikumo - World Trigger
+464. Yuma Kuga - World Trigger
+465. Chika Amatori - World Trigger
+466. Tanya Degurechaff - Youjo Senki
+467. Viktoriya Serebryakov - Youjo Senki
+468. Louise Françoise Le Blanc de La Vallière - Zero no Tsukaima
+469. Charlotte Hélène d'Orléans - Zero no Tsukaima
+470. Kirche Augusta Frederica von Anhalt-Zerbst - Zero no Tsukaima
+471. Siesta - Zero no Tsukaima
+472. Sophie Twilight - Tonari no Kyuuketsuki-san
+473. Akari Amano - Tonari no Kyuuketsuki-san
+474. Elly - Tonari no Kyuuketsuki-san
+475. Hinata Natsuki - Tonari no Kyuuketsuki-san
+476. Alice Zuberg - Sword Art Online
+477. Bercouli - Sword Art Online
+478. Asuna - Sword Art Online
+479. Kirito - Sword Art Online
+480. Milim Nava - Tensei shitara Slime Datta Ken
+481. Rimuru Tempest - Tensei shitara Slime Datta Ken
+482. Shizue Izawa - Tensei shitara Slime Datta Ken
+483. Veldora Tempest - Tensei shitara Slime Datta Ken
+484. Makoto Konno - The Girl Who Leapt Through Time
+485. Kousuke Tsuda - The Girl Who Leapt Through Time
+486. Chiaki Mamiya - The Girl Who Leapt Through Time
+487. Megumi Jinno - Eromanga-sensei
+488. Elf Yamada - Eromanga-sensei
+489. Sagiri Izumi - Eromanga-sensei
+490. Rushuna Tendou - Grenadier: Hohoemi no Senshi
+491. Yukana Yame - Hajimete no Gal
+492. Aria Holmes Kanzaki - Hidan no Aria
+493. Kinji Tooyama - Hidan no Aria
+494. Chizuru Minamoto - Kanokon
+495. Riko Suminoe - Kiss x Sis
+496. Ako Suminoe - Kiss x Sis
+497. Misaki Takasaki - Koi to Uso
+498. Ririna Sanada - Koi to Uso
+499. Masami Kondou - Koi wa Ameagari no You ni
+500. Mumei - Koutetsujou no Kabaneri
+501. La Pucelle - Mahou Shoujo Ikusei Keikaku
+502. Snow White (MGRP) - Mahou Shoujo Ikusei Keikaku
+503. Hardgore Alice - Mahou Shoujo Ikusei Keikaku
+504. Aki Adagaki - Masamune-kun no Revenge
+505. Masamune Makabe - Masamune-kun no Revenge
+506. Neko Fujinomiya - Masamune-kun no Revenge
+507. Yoshino Koiwai - Masamune-kun no Revenge
+508. Shigeo Kageyama - Mob Psycho 100
+509. Chitoge Kirisaki - Nisekoi
+510. Melona - Queen's Blade
+511. Emilia - Re:Zero kara Hajimeru Isekai Seikatsu
+512. Felt - Re:Zero kara Hajimeru Isekai Seikatsu
+513. Rem - Re:Zero kara Hajimeru Isekai Seikatsu
+514. Ram - Re:Zero kara Hajimeru Isekai Seikatsu
+515. Anastasia Hoshin - Re:Zero kara Hajimeru Isekai Seikatsu
+516. Beatrice - Umineko no Naku Koro ni
+517. Elsa Granhiert - Re:Zero kara Hajimeru Isekai Seikatsu
+518. Felix Argyle - Re:Zero kara Hajimeru Isekai Seikatsu
+519. Crusch Karsten - Re:Zero kara Hajimeru Isekai Seikatsu
+520. Pack - Re:Zero kara Hajimeru Isekai Seikatsu
+521. Mimi Pearlbaton - Re:Zero kara Hajimeru Isekai Seikatsu
+522. Sistine Fibel - Rokudenashi Majutsu Koushi to Akashic Records
+523. Celica Arfonia - Rokudenashi Majutsu Koushi to Akashic Records
+524. Glenn Radars - Rokudenashi Majutsu Koushi to Akashic Records
+525. Tensai - Nanana's Buried Treasure
+526. Nanana Ryuugajou - Nanana's Buried Treasure
+527. Daruku Hoshino - Nanana's Buried Treasure
+528. Sumika Murasame - Sasameki Koto
+529. Ushio Kazama - Sasameki Koto
+530. Mai Sakurajima - Seishun Buta Yarou Series
+531. Sakuta Azusagawa - Seishun Buta Yarou Series
+532. Kaede Azusagawa - Seishun Buta Yarou Series
+533. Tomoe Koga - Seishun Buta Yarou Series
+534. Rio Futaba - Seishun Buta Yarou Series
+535. Nodoka Toyohama - Seishun Buta Yarou Series
+536. Tsukiumi - Sekirei
+537. Musubi - Sekirei
+538. Kamuri Sengoku - Slow Start
+539. Maka Albarn - Soul Eater
+540. Patricia Thompson - Soul Eater
+541. Elizabeth Thompson - Soul Eater
+542. Soul Eater Evans - Soul Eater
+543. Death the Kid - Soul Eater
+544. Blair - Soul Eater
+545. Crona - Soul Eater
+546. Shinigami - Soul Eater
+547. Yuki Minagawa - Tsurezure Children
+548. Ayaka Kamine - Tsurezure Children
+549. Special Week - Uma Musume: Pretty Derby
+550. El Condor Pasa - Uma Musume: Pretty Derby
+551. Maruzensky - Uma Musume: Pretty Derby
+552. Rinne Berlinetta - Mahou Shoujo Lyrical Nanoha
+553. Fuuka Reventon - Mahou Shoujo Lyrical Nanoha
+554. Vivio - Mahou Shoujo Lyrical Nanoha
+555. Popura Taneshima - Working!!
+556. Suzune Horikita - Classroom of the Elite
+557. Kiyotaka Ayanokouji - Classroom of the Elite
+558. Guild Girl - Goblin Slayer
+559. Witch - Goblin Slayer
+560. Yoshiko Hanabatake - Aho Girl
+561. Satou - AJIN
+562. Hyuuga - Arpeggio of Blue Steel
+563. Yamada - B-gata H-kei
+564. Harumi Taniguchi - Citrus
+565. Yuzu Aihara - Citrus
+566. C.C. - Code Geass: Hangyaku no Lelouch
+567. Zero Two - Darling in the FranXX
+568. Ichigo - Darling in the FranXX
+569. Zorome - Darling in the FranXX
+570. Kokoro - Darling in the FranXX
+571. Miku (DitF) - Darling in the FranXX
+572. Hina Tachibana - Domestic na Kanojo
+573. Saber - Fate/stay night
+574. Lelei la Lalena - GATE
+575. Rory Mercury - GATE
+576. Chikane Himemiya - Kannazuki no Miko
+577. Himeko Kurusugawa - Kannazuki no Miko
+578. Kongou (KC) - Kantai Collection
+579. Chika Takami - Love Live! Sunshine!!
+580. Kuriko Kazetsubaki - Maburaho
+581. Morgiana - Magi: The Labyrinth of Magic
+582. Medaka Kurokami - Medaka Box
+583. Eruna Ichinomiya - Mikagura Gakuen Kumikyoku
+584. Shiroyasha - Mondaiji-tachi ga Isekai Kara Kuru Sou Desu yo?
+585. KuroUsagi - Mondaiji-tachi ga Isekai Kara Kuru Sou Desu yo?
+586. Hotaru Mizushina - Netsuzou TRap
+587. Yuma Okazaki - Netsuzou TRap
+588. Haruka Nogizaka - Nogizaka Haruka no Himitsu
+589. Hakua Shiodome - Shomin Sample
+590. Aika Tenkuubashi - Shomin Sample
+591. Shinoa Hiiragi - Owari no Seraph
+592. Krul Tepes - Owari no Seraph
+593. Panty Anarchy - Panty & Stocking with Garterbelt
+594. Stocking Anarchy - Panty & Stocking with Garterbelt
+595. Nashetania Loei Piena Augustra - Rokka no Yuusha
+596. Fremy Speeddraw - Rokka no Yuusha
+597. Hikari Tsuneki - Seiren
+598. Levi Kazama - Trinity Seven
+599. Mira Yamana - Trinity Seven
+600. Zero (GoZ) - Grimoire of Zero
+601. Kuroyukihime - Accel World
+602. Haruyuki Arita - Accel World
+603. Kouta Hirano - Highschool of the Dead
+604. Sharyuu - Juuni Taisen
+605. Lecty Eisenach - Kuusen Madoushi Kouhosei no Kyoukan
+606. Misora Whitale - Kuusen Madoushi Kouhosei no Kyoukan
+607. Kanata Age - Kuusen Madoushi Kouhosei no Kyoukan
+608. Mizore Shirayuki - Rosario to Vampire
+609. Moka Akashiya - Rosario to Vampire
+610. Krulcifer Einfolk - Saijaku Muhai no Bahamut
+611. Lisesharte Atismata - Saijaku Muhai no Bahamut
+612. Shima Nishina - Watashi ga Motete Dousunda
+613. Kirin Toudou - Gakusen Toshi Asterisk
+614. Azusa Murasaka - Orange
+615. Ayaka Kagari - Witch Craft Works
+616. Sadao Maou - Hataraku Maou-sama!
+617. Emi Yusa - Hataraku Maou-sama!
+618. Sesshomaru - InuYasha
+619. Shippo - InuYasha
+620. Sango - InuYasha
+621. Elsie - The World God Only Knows
+622. Kurama - Yu☆Yu☆Hakusho
+623. Hiei - Yu☆Yu☆Hakusho
+624. Botan - Yu☆Yu☆Hakusho
+625. Yusuke Urameshi - Yu☆Yu☆Hakusho
+626. Somali - Somali to Mori no Kamisama
+627. Ena Ibarada - Rikei ga Koi ni Ochita no de Shoumei shitemita
+628. Shuka Karino - Darwin's Game
+629. Chiyuki Fujito - Runway de Waratte
+630. Tsumiki Miniwa - Acchi Kocchi
+631. Elel - Ange Vierge
+632. Enju Aihara - Black Bullet
+633. Tina Sprout - Black Bullet
+634. Tomoyo Daidouji - Cardcaptor Sakura
+635. Sakura Kinomoto - Cardcaptor Sakura
+636. Cerberus - Shingeki no Bahamut
+637. Tuesday - Carole & Tuesday
+638. Carole - Carole & Tuesday
+639. Felia - Comet Lucifer
+640. Junichirou Kagami - Denpa Kyoushi
+641. Victorique de Blois - Gosick
+642. Asako Kusakabe - Grisaia no Meikyuu
+643. Amane Suou - Grisaia no Kajitsu
+644. Xianming Lin - Hakata Tonkotsu Ramens
+645. Ohana Matsumae - Hanasaku Iroha
+646. Tetora - Log Horizon
+647. Kana Kojima - Nande Koko ni Sensei ga!?
+648. Nayuta Kani - Imouto sae Ireba Ii.
+649. Shinku - Rozen Maiden
+650. Altair - Re:Creators
+651. Magane Chikujouin - Re:Creators
+652. Maihime Tenkawa - Qualidea Code
+653. Yuuta Iridatsu - Punch Line
+654. Sucy Manbavaran - Little Witch Academia
+655. Lotte Jansson - Little Witch Academia
+656. Atsuko Kagari - Little Witch Academia
+657. Eucliwood Hellscythe - Kore wa Zombie Desu ka?
+658. Tio - Konjiki no Gash Bell!!
+659. Gash Bell - Konjiki no Gash Bell!!
+660. Brago - Konjiki no Gash Bell!!
+661. Maria - Junketsu no Maria
+662. Anzu Futaba - The iDOLM@​STER Cinderella Girls
+663. Miyano - Tanaka-kun wa Itsumo Kedaruge
+664. Tanaka - Tanaka-kun wa Itsumo Kedaruge
+665. Shizuma Hanazono - Strawberry Panic
+666. Leviathan (Sin) - Sin: Nanatsu no Taizai
+667. Lucifer - Sin: Nanatsu no Taizai
+668. Izetta - Shuumatsu no Izetta
+669. Cyan Hijirikawa - Show By Rock!!
+670. Kuro - Servamp
+671. Suzu Hagimura - Seitokai Yakuindomo
+672. Mirei Shikishima - Valkyrie Drive: Mermaid
+673. Ueno - Ueno-san wa Bukiyou
+674. Tsubame Kamoi - Uchi no Maid ga Uzasugiru!
+675. Nami - One Piece
+676. Monkey D. Luffy - One Piece
+677. Boa Hancock - One Piece
+678. Roronoa Zoro - One Piece
+679. Shanks - One Piece
+680. Tony Tony Chopper - One Piece
+681. Vivi Nefertari - One Piece
+682. Carrot - One Piece
+683. Reiju Vinsmoke - One Piece
+684. Edward Newgate - One Piece
+685. Silvers Rayleigh - One Piece
+686. Elsa - Frozen
+687. Anna (Frozen) - Frozen
+688. Yoruichi Shihoin - Bleach
+689. Erika Karisawa - Durarara!!
+690. Hanabi Kawai - Keijo!!!!!!!!
+691. Honoka (AMQ) - Anime Music Quiz
+692. Komugi (AMQ) - Anime Music Quiz
+693. Kuriko - Anime Music Quiz
+694. Sakurako Kujou - Beautiful Bones
+695. Mamika Kirameki - Re:Creators
+696. Meteora Österreich - Re:Creators
+697. Selesia Upitiria - Re:Creators
+698. Rebecca Riku - One Piece
+699. Honami Ichinose - Classroom of the Elite
+700. Lelouch Lamperouge - Code Geass: Hangyaku no Lelouch
+701. Katarina Claes - Destruction Flag Otome
+702. Raven - Teen Titans
+703. Starfire - Teen Titans
+704. Airi Yamamoto - Back Street Girls
+705. Chika Sugihara - Back Street Girls
+706. Mari Tachibana - Back Street Girls
+707. Pecorine - Princess Connect! Re:Dive
+708. Arte - Arte
+709. Kai von Grannzreich - Oushitsu Kyoushi Heine
+710. Rin Tohsaka (Kaleid) - Fate/Kaleid Liner PRISMA☆ILLYA
+711. Yoshiko Tsushima - Love Live! Sunshine!!
+712. Kotori Minami - Love Live! School Idol Project
+713. Honoka Kousaka - Love Live! School Idol Project
+714. Asuka Kurashina - Ao no Kanata no Four Rhythm
+715. Mai Shiranui - Fatal Fury
+716. Koyori Tsumujikaze - Shakunetsu no Takkyuu Musume
+717. Medusa (JCD) - Jashin-chan Dropkick
+718. Lilith (MM) - Machikado Mazoku
+719. Touka Takanashi - Chuunibyou demo Koi ga Shitai!
+720. Kakushi Gotou - Kakushigoto
+721. Claudia Hodgins - Violet Evergarden
+722. Rak Wraithraiser - Tower of God
+723. Takeshi Yamamoto - Katekyo Hitman Reborn!
+724. Koyomi Araragi - Monogatari Series
+725. L - Death Note
+726. Zero - Mega Man X
+727. X - Mega Man X
+728. Ayase Aragaki - OreImo
+729. Souichi Negishi - Detroit Metal City
+730. Susanoo (AgK) - Akame ga Kill!
+731. Satou's Aunt - Happy Sugar Life
+732. Kanau Kongou - Himouto! Umaru-chan
+733. Hikari Kongou - Himouto! Umaru-chan
+734. Athena Asamiya - Psycho Soldier
